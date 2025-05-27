@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Bartan02 (a.k.a. Bartosz or Bart)
 
-<!--
-**Bartan02/Bartan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇵🇱 Originally from Poland  
+🎓 ICT Student @ HZ University of Applied Sciences  
+💻 Interested in Software Development 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: C++, C#, Java, JavaScript, TypeScript, SQL
+- **Frameworks**: Unreal Engine, React, Tailwind CSS
+- **Tools**: JetBrains Rider, VSCode, Git, Docker,
+- **Other Interests**: Web dev, app prototyping, UI/UX
+
+## 📈 GitHub Stats
+
+![Bartan02's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartan02&show_icons=true&theme=tokyonight)
+
+## 🌱 Planning on Learning
+
+- .NET
+- Swift
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bartan02/)
+- 📮 contact[at]badamczyk.eu
