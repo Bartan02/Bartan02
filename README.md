@@ -1,6 +1,6 @@
 # 👋 Hi, I am Bartan02 (a.k.a. Bartosz or Bart)
 
-👨🏻 Full name: Bartosz Adamczyk
+👨🏻 Full name: Bartosz Adamczyk  
 🇵🇱 Originally from Poland  
 🎓 ICT Student @ HZ University of Applied Sciences  
 💻 Interested in Software Development 
