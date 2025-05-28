@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages**: C++, C#, Java, JavaScript, TypeScript, SQL
-- **Frameworks**: Unreal Engine, React, Tailwind CSS
+- **Frameworks**: Unreal Engine, React, Svelte, Laravel, Tailwind CSS
 - **Tools**: JetBrains, VSCode, Git, Docker,
 - **Other Interests**: Web dev, app dev, mobile dev, app prototyping, UI/UX
   
